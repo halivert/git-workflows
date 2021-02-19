@@ -1,13 +1,18 @@
 # Log
 
 # Features
+
 |------------------|-----------|
 | Datetime         | Name      |
 |------------------|-----------|
 | 2021-02-19 15:49 | feature-a |
+| 2021-02-19 15:56 | feature-c |
+| 2021-02-19 16:12 | feature-d |
+| 2021-02-19 16:13 | feature-e |
 |------------------|-----------|
 
 ## Hotfixes
+
 |------------------|-----------|
 | Datetime         | Branch    |
 |------------------|-----------|
@@ -15,4 +20,5 @@
 |------------------|-----------|
 
 # Useful links
+
 [Atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
