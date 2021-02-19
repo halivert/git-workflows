@@ -13,3 +13,6 @@
 |------------------|-----------|
 | 2021-02-19 15:46 | hot-fix-a |
 |------------------|-----------|
+
+# Useful links
+[Atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
