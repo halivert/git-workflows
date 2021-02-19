@@ -9,3 +9,7 @@
 |------------------|-----------|
 | 2021-02-19 15:31 | feature-a |
 |------------------|-----------|
+
+# Hotfix
+This is a hot fix 🛠
+Second commit of the hot fix 🛠
